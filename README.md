@@ -11,6 +11,15 @@
   - Prediction done by using Decision Tree Regression techniques.
   - Annual Rainfall, WPI(Wholesale Price Index) datasets are used for training the model
   - User friendly UI made by using materializecss
+
+### Screenshot and Logo
+ * https://github.com/S-K20/Mine-1/blob/main/static/ApnaAnaajLogo.png
+ * https://github.com/S-K20/Mine-1/blob/main/static/Screenshot%20(24).png
+ * https://github.com/S-K20/Mine-1/blob/main/static/Screenshot%20(25).png
+ * https://github.com/S-K20/Mine-1/blob/main/static/Screenshot%20(26).png
+ * https://github.com/S-K20/Mine-1/blob/main/static/Screenshot%20(27).png
+ * https://github.com/S-K20/Mine-1/blob/main/static/Screenshot%20(28).png
+ * https://github.com/S-K20/Mine-1/blob/main/static/Screenshot%20(29).png
  
 ### Tech
 * [Python(3.0 or above)](https://www.python.org/)
